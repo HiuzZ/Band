@@ -186,8 +186,8 @@ html {
     position: relative;
     margin-top: 46px;
     padding-top: 50%;
-    background-image: url("https://github.com/HiuzZ/Band/blob/main/assets/img/la.jpg?raw=true");
-    /* background: url('./assets/img/la.jpg') top center / cover no-repeat; */
+
+    background: url('https://github.com/HiuzZ/Band/blob/main/assets/img/la.jpg?raw=true') top center / cover no-repeat;
 }
 
 #slider .text-content{
